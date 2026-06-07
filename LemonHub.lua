@@ -181,8 +181,8 @@ local INP_H     = px(28)    -- 18
 local KB_W      = px(92)    -- 60
 local DD_BTN_W  = px(106)   -- 69
 local DD_ROW_H  = px(30)    -- 20
-local DROP_W    = px(35)    -- 23   (droplet badge)
-local DROP_H    = px(35)    -- 23
+local DROP_W    = px(35)    -- 65   (droplet badge)
+local DROP_H    = px(35)    -- 65
 local NOTIF_W   = px(290)   -- 189
 local NOTIF_H   = px(64)    -- 42
 
