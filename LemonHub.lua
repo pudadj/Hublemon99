@@ -103,7 +103,7 @@ local INP_H    = px(26)    -- 17
 local KB_W     = px(88)    -- 57
 local DD_W     = px(100)   -- 65
 local DD_ROW   = px(28)    -- 18
-local DROP_SZ  = 80        -- droplet pixel size (absolute, not scaled)
+local DROP_SZ  = 50        -- droplet pixel size (absolute, not scaled)
 local NOTIF_W  = px(280)   -- 182
 local NOTIF_H  = px(60)    -- 39
 -- Radii
